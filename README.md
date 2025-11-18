@@ -1,4 +1,4 @@
-Study Rooms (example)
+Study Rooms 
 ===
 
 ---
