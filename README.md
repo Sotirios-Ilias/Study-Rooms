@@ -1,7 +1,26 @@
-Clone the repository
-git clone https://github.com/AngelosGkiose/Study-Rooms.git
+Study Rooms (example)
+===
 
-Run the project
+---
+
+Clone the repository:
+
+```shell
+git clone https://github.com/AngelosGkiose/Study-Rooms.git
+```
+
+---
+
+Run :
+
+```shell
 cd Study-Rooms
-./mvnw spring-boot:run  # MacOS / Linux
-./mvnw.cmd spring-boot:run  # Windows
+./mvnw spring-boot:run # MacOS / Linux
+./mvnw.cmd spring-boot:run # Windows
+```
+
+---
+
+Open in browser: [localhost:8080/test](http://localhost:8080/test)
+
+---
